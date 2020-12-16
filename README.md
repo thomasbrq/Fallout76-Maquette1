@@ -1,7 +1,7 @@
 # Challenge Fallout76 Maquette
 
 ## 📘 The challenge
-![The challenge]()
+![The challenge]("preview/Maquette Fallout - Niveau 1-page-001.jpg")
 
 ## 💻 Live Preview
 
