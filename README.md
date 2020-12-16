@@ -1,7 +1,7 @@
 # Challenge Fallout76 Maquette
 
 ## 📘 The challenge
-![The challenge]("https://github.com/thomasbrq/Fallout76-Maquette1/blob/main/preview/Maquette%20Fallout%20-%20Niveau%201-page-001.jpg?raw=true")
+![The challenge]("https://user-images.githubusercontent.com/71637888/102365723-27d90b00-3fb8-11eb-82cc-beab3f990878.jpg")
 
 ## 💻 Live Preview
 
